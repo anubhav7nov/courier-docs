@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[623],{8474:function(s){s.exports=JSON.parse('{"allTagsPath":"/courier-docs/blog/tags","name":"hello","count":2,"permalink":"/courier-docs/blog/tags/hello"}')}}]);
